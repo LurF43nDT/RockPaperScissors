@@ -5,6 +5,7 @@ BODY{
     display: flex;
     flex-direction: column;
     align-items: center;
+    background-color: rgb(0, 59, 10);
 }
 
 H1{
@@ -34,4 +35,15 @@ H1{
 #resultDisplay{
     font-size: 5rem;
     margin: 30px 0;
+}
+
+.Error{
+    padding: 0;
+    margin: 0;
+    background-color: rgba(220, 20, 60, 0.103);
+}
+
+button{
+    background-color: rgb(226, 43, 43);
+    border: none;
 }
