@@ -45,5 +45,6 @@ H1{
 
 button{
     background-color: rgb(226, 43, 43);
-    border: none;
+    border-color: darkgrey;
+    border-radius: 150px;
 }
